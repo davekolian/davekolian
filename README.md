@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm David! 👋
 
-<!--
-**davekolian/davekolian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full Stack Developer | 🧠 Aspiring AI/ML Engineer  
+🎮 Game Developer (for fun)
 
-Here are some ideas to get you started:
+I enjoy building useful web applications and exploring machine learning. I value clean code, learning in public, and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Full Stack Development
+- **Languages**: JavaScript, TypeScript, Python, Java, C# *(learning)*
+- **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB, Firebase
+- **Other**: Git, REST APIs, Linux, React Native *(learning)*
+
+### 🤖 AI / Machine Learning *(Learning & Practicing)*
+- **Languages**: Python (NumPy, pandas, scikit-learn)
+- **Topics**: ML Fundamentals, CNNs, Computer Vision, NLP
+- **Tools**: Jupyter, TensorFlow, PyTorch, Keras
+
+### 🎮 Game Development *(Learning)*
+- **Engines**: Unity (C#), Unreal
+- **Interests**: 2D platformers, shaders, procedural generation
+
+---
+
+## 🚧 Currently Learning
+- Deep Learning (CNNs, RNNs)
+- MLOps & model deployment
+- Advanced React patterns
+- 2D & 3D development in Unity
+
+---
+
+## 🔗 Connect with Me
+- 🌐 [Portfolio](https://davekolian.github.io/)
+- 💼 [LinkedIn](https://linkedin.com/in/davekol)  
+
+---
+
+<!-- ## 📌 Featured Projects
+- [🌐 Full Stack Blog Platform](https://github.com/yourusername/blog-platform)  
+  A MERN stack app with authentication, CRUD, and markdown editor.
+
+- [🧠 Simple ML Classifier](https://github.com/yourusername/ml-classifier)  
+  A beginner-friendly machine learning project using scikit-learn.
+
+- [🎮 2D Platformer Game](https://github.com/yourusername/platformer-game)  
+  Side-scrolling pixel art game built in Unity for fun and learning.
+
+---
 -->
