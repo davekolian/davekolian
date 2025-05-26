@@ -1,9 +1,10 @@
-# Hi, I'm David! 👋
+#👋  Hi, I'm David! 
 
 🎯 Full Stack Developer | 🧠 Aspiring AI/ML Engineer  
 🎮 Game Developer (for fun)
 
 I enjoy building useful web applications and exploring machine learning. I value clean code, learning in public, and solving real-world problems through technology.
+I am currently based in Dubai, United Arab Emirates.
 
 ---
 
