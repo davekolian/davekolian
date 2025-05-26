@@ -1,4 +1,4 @@
-#👋  Hi, I'm David! 
+# 👋  Hi, I'm David! 
 
 🎯 Full Stack Developer | 🧠 Aspiring AI/ML Engineer  
 🎮 Game Developer (for fun)
